@@ -12,11 +12,12 @@ public class Main {
         zahl2 = 5;
         System.out.println(zahl1);
         System.out.println(zahl2);
-        System.out.println(resultat);
-        for (int i = 0; i <= 6; i++){
+        System.out.println("r: "+resultat);
+        for (int i = 0; i < 6; i++){
             System.out.println("for: " + i);
             resultat = resultat + 1;
         }
+        System.out.println(resultat);
         System.out.println("fertig");
     }
 }

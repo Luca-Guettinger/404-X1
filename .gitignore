@@ -18,6 +18,7 @@ bin/
 # IntelliJ
 out/
 .idea/
+
 *.iml
 
 # Misc

@@ -11,6 +11,7 @@ Setzen Sie je in den Zeilen **10; 12; 15; 17;** je einen **Breakpoint**
 Debugger aktivieren und richtig konfigurieren. Der Ablauf kann gestoppt und Inhalte von Variablen ausgelesen werden.
 ### SKALIERBARKEIT
 Fehler können mit Debugger gefunden und korrigiert werden.
+
 ![T5 sourcecode](https://puu.sh/CZhz0/1210a9aa99.png)
 ### VORGEHEN
 

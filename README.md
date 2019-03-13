@@ -6,6 +6,7 @@ Eine neue geeignete IDE kann zur Programmierung und Ausführung eingesetzt werde
 ### AUFTRAG
 Erstellen Sie folgendes Programm _zeilengetreu._
 Setzen Sie je in den Zeilen **10; 12; 15; 17;** je einen **Breakpoint**
+
 ![T4 sourcecode](https://puu.sh/CZhxU/fa4ef408fe.png)
 ### SCHWIERIGKEIT
 Debugger aktivieren und richtig konfigurieren. Der Ablauf kann gestoppt und Inhalte von Variablen ausgelesen werden.

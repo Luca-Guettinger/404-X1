@@ -6,14 +6,14 @@ Eine neue geeignete IDE kann zur Programmierung und Ausführung eingesetzt werde
 ### AUFTRAG
 Erstellen Sie folgendes Programm _zeilengetreu._
 Setzen Sie je in den Zeilen **10; 12; 15; 17;** je einen **Breakpoint**
-![enter image description here](https://puu.sh/CZhxU/fa4ef408fe.png)
+![T4 sourcecode](https://puu.sh/CZhxU/fa4ef408fe.png)
 ### SCHWIERIGKEIT
 Debugger aktivieren und richtig konfigurieren. Der Ablauf kann gestoppt und Inhalte von Variablen ausgelesen werden.
 ### SKALIERBARKEIT
 Fehler können mit Debugger gefunden und korrigiert werden.
-![enter image description here](https://puu.sh/CZhz0/1210a9aa99.png)
+
+![T5 sourcecode](https://puu.sh/CZhz0/1210a9aa99.png)
 ### VORGEHEN
-<![endif]-->
 
 - Klasse T4 gemäss Vorlage erstellen, Debugger richtig konfigurieren
 - Setzen Sie Breakpoints in den Zeilen **10; 12; 15; 17;**
